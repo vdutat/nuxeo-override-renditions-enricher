@@ -1,0 +1,1 @@
+# nuxeo-override-renditions-enricher
