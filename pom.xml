@@ -9,7 +9,7 @@
 
   <groupId>org.nuxeo.addons</groupId>
   <artifactId>nuxeo-override-renditions-enricher-parent</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0.0</version>
   <name>Nuxeo override renditions enricher parent</name>
   <description />
   <packaging>pom</packaging>
