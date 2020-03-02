@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<component name="com.acme.enricher.renditions">
+
+  <require>org.nuxeo.ecm.platform.rendition.marshallers</require>
+
+  <extension target="org.nuxeo.ecm.core.io.MarshallerRegistry" point="marshallers">
+
+    <register class="org.nuxeo.ecm.platform.rendition.io.RenditionJsonEnricher" enable="false"/>
+    <register class="com.acme.RenditionsEnricher" enable="true" />
+
+  </extension>
+</component>

@@ -1,0 +1,10 @@
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .
+Manifest-Version: 1.0
+Bundle-Vendor: com.acme
+Bundle-Version: 1.0.0
+Bundle-Name: nuxeo-override-renditions-enricher-core
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: com.acme.nuxeo-override-renditions-enricher-core;singleton=true
+Nuxeo-Component: OSGI-INF/renditions-enricher-contrib.xml 
+
